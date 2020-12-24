@@ -1,0 +1,14 @@
+{
+  "name": "sample-scraping",
+  "version": "1.0.0",
+  "description": "my first scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
